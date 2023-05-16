@@ -1,5 +1,5 @@
 # escala_sjc
-Programa para gerar a escala de substituição de servidores segundo regras da Promotoria
+## Programa para gerar a escala de substituição de servidores segundo regras da Promotoria de SJC
 
 O programa, escrito em Python, gera a escala segundo as seguintes regras:
 
